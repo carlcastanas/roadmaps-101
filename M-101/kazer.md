@@ -1,4 +1,4 @@
-# Roadmap for Zynthonix: Front-end
+# Roadmap for Kazer: Web Developer
 
 ## Phase 1: Front-End Developer
 
