@@ -99,6 +99,69 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) focused on bui
    - ICML (International Conference on Machine Learning)
    - CVPR (Computer Vision and Pattern Recognition)
 
+## One-Year Study Plan
+
+### Months 1-2: Python Basics
+- Complete "Automate the Boring Stuff with Python" book/course.
+- Work on Python exercises on LeetCode and HackerRank.
+
+### Months 3-4: Data Manipulation and Visualization
+- Study Pandas, Matplotlib, and Seaborn documentation.
+- Complete "Python for Data Analysis" by Wes McKinney.
+- Practice data manipulation and visualization on small projects.
+
+### Months 5-6: Core Machine Learning Concepts
+- Complete "Machine Learning" course by Andrew Ng on Coursera.
+- Start reading "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."
+
+### Months 7-8: Deep Learning
+- Complete "Deep Learning Specialization" by Andrew Ng on Coursera.
+- Read "Deep Learning with Python" by François Chollet.
+
+### Months 9-10: Projects and Competitions
+- Participate in Kaggle competitions.
+- Work on personal ML projects (predictive modeling, image classification, etc.).
+
+### Months 11-12: Advanced Topics and Networking
+- Study Reinforcement Learning and GANs.
+- Stay updated with the latest research by reading blogs and attending conferences.
+- Network with professionals in the field through online forums and local meetups.
+
+## Interview and Job Hunting Tips
+
+### Preparing for Interviews
+1. **Understand Fundamentals**:
+   - Review core ML concepts, algorithms, and techniques.
+   - Be prepared to explain how various ML models work and their applications.
+
+2. **Practice Coding**:
+   - Regularly solve coding problems on LeetCode, HackerRank, and CodeSignal.
+   - Focus on data structures, algorithms, and ML-related coding problems.
+
+3. **Work on Projects**:
+   - Build a portfolio of ML projects showcasing your skills.
+   - Write blog posts or create a GitHub repository to document your work.
+
+4. **Mock Interviews**:
+   - Participate in mock interviews with peers or use platforms like Pramp and Interviewing.io.
+
+### Job Hunting
+1. **Resume and LinkedIn**:
+   - Tailor your resume to highlight ML skills and projects.
+   - Keep your LinkedIn profile updated with relevant experience and certifications.
+
+2. **Networking**:
+   - Attend ML conferences, meetups, and webinars.
+   - Join ML-related online communities and forums.
+
+3. **Job Portals**:
+   - Regularly check job portals like LinkedIn, Indeed, Glassdoor, and specialized AI/ML job boards.
+   - Apply to relevant positions and follow up on applications.
+
+4. **Continuous Learning**:
+   - Stay updated with the latest trends and technologies in ML.
+   - Enroll in advanced courses and participate in research projects.
+
 ## Conclusion
 
 This roadmap provides a structured approach to learning Machine Learning. Remember, consistency is key. Regular practice, continuous learning, and engaging with the community will help you become proficient in ML.
